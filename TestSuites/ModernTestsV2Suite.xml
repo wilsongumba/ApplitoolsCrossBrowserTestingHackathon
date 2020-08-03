@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Modern Tests V2 Suite">
+
+    <test name="Modern Tests V2" preserve-order="true">
+        <classes>
+            <class name="ModernTestsV2.ModernTestsV2">
+                <methods>
+                    <include name="crossDeviceElementsTest"/>
+                    <include name="shoppingExperienceTest"/>
+                    <include name="productDetailsTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

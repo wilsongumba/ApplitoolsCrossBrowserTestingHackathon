@@ -1,0 +1,133 @@
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter icon is displayed, DOM Id: LI____205, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Filter is not displayed, DOM Id: LI____206, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____247, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe3 displayed, DOM Id: UL____269, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe4 displayed, DOM Id: UL____291, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe5 displayed, DOM Id: UL____313, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe6 displayed, DOM Id: UL____335, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe7 displayed, DOM Id: UL____357, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe8 displayed, DOM Id: UL____382, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Heart_Shuffle_Cart_ForShoe9 displayed, DOM Id: UL____404, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product serial number is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Image is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Product Grid is present, DOM Id: product_grid, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 1 displayed, DOM Id: .//h3[text()='Appli Air x Night'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Result Black Shoe 2 displayed, DOM Id: .//h3[text()='Appli Air 720'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Result White Shoe not displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe1 displayed, DOM Id: UL____222, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Filter Result Heart_Shuffle_Cart_ForShoe2 displayed, DOM Id: UL____244, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
