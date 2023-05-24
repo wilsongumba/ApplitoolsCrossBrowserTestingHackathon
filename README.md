@@ -12,7 +12,6 @@
 ## Steps to run this project
 
 1. Git clone this repo
-    * `https://github.com/marymercy/ApplitoolsCrossBrowserTestingHackathon.git` 
 2. Open the project in IntelliJ IDEA.
 3. Navigate to `TestSuites` folder, select any test suite you want to run, right click and select run(run V1 tests first, then run V2 tests).
     * /ModernTestsV1Suite.xml
